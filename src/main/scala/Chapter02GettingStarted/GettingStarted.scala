@@ -1,4 +1,4 @@
-package Chapter02
+package Chapter02GettingStarted
 
 // A comment!
 /* Another comment */
