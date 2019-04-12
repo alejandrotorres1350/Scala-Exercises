@@ -1,6 +1,4 @@
-package fpinscala.gettingstarted
-
-import fpinscala.gettingstarted.MyModule.fib
+package Chapter02
 
 // A comment!
 /* Another comment */
